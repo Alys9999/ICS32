@@ -1,0 +1,1 @@
+{"reqCodea":"12345678999","reqTime":"2019-10-10 12:11:05","clientCode":"","tokenCode":"123","interfaceName":"devStatus","deviceCode":"D001","workTime":"2019-10-10 12:11:05","status":"stop","extend1":"≤‚ ‘"}
